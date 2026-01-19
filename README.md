@@ -1,6 +1,19 @@
 # Behavior Tree using Groot2
 ---
 
+Team member:
+Bernard Marcellino Sitio - 4222201054
+Bobby Anggra Putra - 4222201062
+
+the robot task is to move in a squere using 4 checkpoint with a distance about 3 meter
+---
+
+## 🧠 Behavior Tree Design (Groot2)
+
+![Behavior Tree Diagram](assets/control_bt_gaze.svg)
+
+---
+
 ## System Requirements
 
 - Ubuntu 22.04  
