@@ -2,8 +2,8 @@
 ---
 
 Team member:
-Bernard Marcellino Sitio - 4222201054
-Bobby Anggra Putra - 4222201062
+- Bernard Marcellino Sitio - 4222201054
+- Bobby Anggra Putra - 4222201062
 
 the robot task is to move in a squere using 4 checkpoint with a distance about 3 meter
 ---
