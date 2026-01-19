@@ -4,7 +4,8 @@
 ## System Requirements
 
 - Ubuntu 22.04  
-- ROS 2 (Humble recommended)  
+- ROS 2 (Humble recommended)
+- Gazebo classic
 
 ---
 
