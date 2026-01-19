@@ -10,7 +10,7 @@ the robot task is to move in a squere using 4 checkpoint with a distance about 3
 
 ## 🧠 Behavior Tree Design (Groot2)
 
-![Behavior Tree Diagram](assets/control_bt_gaze.svg)
+![Behavior Tree Diagram](src/elton_control_pkg/assets/control_bt_gaze.svg)
 
 ---
 
